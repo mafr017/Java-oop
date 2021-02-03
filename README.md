@@ -11,5 +11,6 @@
 9. Super
 10. Super Constructor
 11. Polymorphism
+12. Type Check & Casts
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
