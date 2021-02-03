@@ -8,5 +8,6 @@
 6. This
 7. Inheritance
 8. Method Overriding
+9. Super
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
