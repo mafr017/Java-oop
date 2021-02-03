@@ -15,5 +15,6 @@
 13. Variable Hiding
 14. Package
 15. Access modifier
+16. Abstract Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
