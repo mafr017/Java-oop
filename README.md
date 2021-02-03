@@ -12,5 +12,6 @@
 10. Super Constructor
 11. Polymorphism
 12. Type Check & Casts
+13. Variable Hiding
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
