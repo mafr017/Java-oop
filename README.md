@@ -10,5 +10,6 @@
 8. Method Overriding
 9. Super
 10. Super Constructor
+11. Polymorphism
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
