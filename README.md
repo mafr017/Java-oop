@@ -7,5 +7,6 @@
 5. Variable Shadowing
 6. This
 7. Inheritance
+8. Method Overriding
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
