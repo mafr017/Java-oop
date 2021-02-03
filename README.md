@@ -9,5 +9,6 @@
 7. Inheritance
 8. Method Overriding
 9. Super
+10. Super Constructor
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
