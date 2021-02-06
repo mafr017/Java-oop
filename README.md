@@ -32,5 +32,6 @@
 28. Static Keyword
 29. Record Class
 30. Enum Class
+31. Enum Members
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
