@@ -17,5 +17,7 @@
 15. Access modifier
 16. Abstract Class
 17. Abstract Method
+18. Encapsulation
+    - Getter & Setter
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
