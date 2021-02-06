@@ -22,5 +22,6 @@
 19. Interface
 20. Interface Inheritance
 20. Default Method
+21. ToString Method
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
