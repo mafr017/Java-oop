@@ -34,5 +34,6 @@
 30. Enum Class
 31. Enum Members
 32. Konversi Enum ke String (atau sebaliknya)
+33. Exception
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
