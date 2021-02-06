@@ -28,5 +28,6 @@
 24. Final Class
 25. Final Method
 26. Inner Class
+27. Anonymous Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
