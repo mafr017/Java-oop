@@ -39,5 +39,6 @@
 35. Error
 36. StackTraceElement Class
 37. Try with Resource
+38. Annotation
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
