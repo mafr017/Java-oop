@@ -21,5 +21,6 @@
     - Getter & Setter
 19. Interface
 20. Interface Inheritance
+20. Default Method
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
