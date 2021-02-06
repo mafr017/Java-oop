@@ -24,5 +24,6 @@
 20. Default Method
 21. ToString Method
 22. Equals Method
+23. Hashcode Method
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
