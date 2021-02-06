@@ -19,5 +19,6 @@
 17. Abstract Method
 18. Encapsulation
     - Getter & Setter
+19. Interface
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
