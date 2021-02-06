@@ -11,7 +11,7 @@
 9. Super
 10. Super Constructor
 11. Polymorphism
-12. Type Check & Casts
+12. Type Check & Casts (instanceof)
 13. Variable Hiding
 14. Package
 15. Access modifier
@@ -23,5 +23,6 @@
 20. Interface Inheritance
 20. Default Method
 21. ToString Method
+22. Equals Method
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
