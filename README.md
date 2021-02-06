@@ -36,5 +36,6 @@
 32. Konversi Enum ke String (atau sebaliknya)
 33. Exception
 34. Runtime Exception
+35. Error
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
