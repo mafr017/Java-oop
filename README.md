@@ -25,5 +25,6 @@
 21. ToString Method
 22. Equals Method
 23. Hashcode Method
+24. Final Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
