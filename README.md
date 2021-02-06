@@ -35,5 +35,6 @@
 31. Enum Members
 32. Konversi Enum ke String (atau sebaliknya)
 33. Exception
+34. Runtime Exception
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
