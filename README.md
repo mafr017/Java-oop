@@ -26,6 +26,7 @@
 22. Equals Method
 23. Hashcode Method
 24. Final Class
-24. Final Method
+25. Final Method
+26. Inner Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
