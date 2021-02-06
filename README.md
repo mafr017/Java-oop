@@ -20,5 +20,6 @@
 18. Encapsulation
     - Getter & Setter
 19. Interface
+20. Interface Inheritance
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
