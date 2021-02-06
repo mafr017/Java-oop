@@ -1,8 +1,11 @@
 package belajar.java.oop.util;
 
+import belajar.java.oop.annotation.NotBlank;
 import belajar.java.oop.data.LoginRequest;
 import belajar.java.oop.error.BlankException;
 import belajar.java.oop.error.ValidationException;
+
+import java.lang.reflect.Field;
 
 public class ValidationUtil {
 
@@ -18,7 +21,7 @@ public class ValidationUtil {
         }
     }
 
-    public static void validateRuntime(LoginRequest loginRequest){
+    public static void validateRuntime(LoginRequest loginRequest) {
         if (loginRequest.username() == null) {
             throw new NullPointerException("Username is null!");
         } else if (loginRequest.username().isBlank()) {
@@ -27,6 +30,26 @@ public class ValidationUtil {
             throw new NullPointerException("Password is null!");
         } else if (loginRequest.password().isBlank()) {
             throw new BlankException("Password is blank!");
+        }
+    }
+
+    //benefitnya tidak perlu cek secara manual
+    public static void validationReflection(Object object) {
+        Class aClass = object.getClass();
+        Field[] fields = aClass.getDeclaredFields();
+        for (Field field : fields) {
+            field.setAccessible(true);
+            if (field.getAnnotation(NotBlank.class) != null) {
+                // validated
+                try {
+                    String value = (String) field.get(object);
+                    if (value == null || value.isBlank()) {
+                        throw new BlankException("Field " + field.getName() + " is blank");
+                    }
+                } catch (IllegalAccessException exception) {
+                    System.out.println("Tidak bisa mengakses field " + field.getName());
+                }
+            }
         }
     }
 
