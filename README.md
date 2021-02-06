@@ -33,5 +33,6 @@
 29. Record Class
 30. Enum Class
 31. Enum Members
+32. Konversi Enum ke String (atau sebaliknya)
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
