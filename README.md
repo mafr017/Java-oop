@@ -30,5 +30,6 @@
 26. Inner Class
 27. Anonymous Class
 28. Static Keyword
+29. Record Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
