@@ -37,5 +37,6 @@
 33. Exception
 34. Runtime Exception
 35. Error
+36. StackTraceElement Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
