@@ -5,7 +5,12 @@ class SocialMedia {
 }
 
 final class Facebook extends SocialMedia {
-
+    final void login(String username, String password) {
+    }
 }
 
-//class FakeFacebook extends Facebook {}       // error tidak bisa karena parent facebook bersifat final
+// error tidak bisa karena parent facebook bersifat final
+//class FakeFacebook extends Facebook {
+//    void login(String username, String password) {
+//    }
+//}
