@@ -29,5 +29,6 @@
 25. Final Method
 26. Inner Class
 27. Anonymous Class
+28. Static Keyword
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
