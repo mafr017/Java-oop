@@ -31,5 +31,6 @@
 27. Anonymous Class
 28. Static Keyword
 29. Record Class
+30. Enum Class
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
